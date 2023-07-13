@@ -2,12 +2,12 @@
 #include <cairo.h>
 #include <math.h>
 
-const int width = 1600;
-const int height = 900;
-const double res = 0.5;
+const int width = 480;
+const int height = 360;
+const double res = 0.25;
 
-const double base_ambience = 0.2;
-const double base_shine = 35;
+const double base_ambience = 0.1;
+const double base_shine = 50;
 const double base_diffuse = 1;
 const double base_specular = 1;
 
